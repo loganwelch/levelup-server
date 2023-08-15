@@ -1,0 +1,20 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "D & D",
+            "creator": 1,
+            "game_type": 2
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Catan",
+            "creator": 1,
+            "game_type": 1
+        }
+    }
+]
