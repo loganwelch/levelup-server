@@ -4,6 +4,9 @@
         "pk": 1,
         "fields": {
             "title": "D & D",
+            "maker": "Santa Claus",
+            "number_of_players": 10,
+            "skill_level": 2,
             "creator": 1,
             "game_type": 2
         }
@@ -13,6 +16,9 @@
         "pk": 2,
         "fields": {
             "title": "Catan",
+            "maker": "Game Coast Inc",
+            "number_of_players": 7,
+            "skill_level": 3,
             "creator": 1,
             "game_type": 1
         }

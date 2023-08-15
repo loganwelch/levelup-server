@@ -1,0 +1,36 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "title": "Super Cool Event",
+            "date_time": "2023-08-15 14:30:00",
+            "organizer": 1,
+            "game": 1,
+            "location": "India"
+
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "title": "Bing Bang Boom Event",
+            "date_time": "2023-10-21 14:30:00",
+            "organizer": 1,
+            "game": 2,
+            "location": "Canada"
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 3,
+        "fields": {
+            "title": "Circus Event",
+            "date_time": "2023-11-08 14:30:00",
+            "organizer": 1,
+            "game": 2,
+            "location": "France"
+        }
+    }
+]
