@@ -9,3 +9,5 @@ class Game(models.Model):
     skill_level = models.IntegerField(3)
     creator = models.ForeignKey("Gamer", on_delete=models.CASCADE, related_name="created_games")
     game_type = models.ForeignKey("GameType", on_delete=models.CASCADE, related_name="games")
+
+    
